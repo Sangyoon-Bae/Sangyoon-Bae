@@ -11,7 +11,7 @@ Developing **principle-driven AI systems** that bridge neuroscience and machine 
 
 ## 📝 Selected Publications
 - **POYO-SSL**: Predictability-aware SSL for visual decoding
-- **CausalMamba**: Scalable SSMs for neural causal inference
+- **CausalMamba**: Scalable SSMs for neural causal inference ([paper](https://arxiv.org/abs/2510.17318))
 - **MBBN**: Frequency-specific attention for fMRI ([paper](https://arxiv.org/abs/2503.23394))
 - **Swift**: Swin 4D fMRI Transformer ([paper](https://arxiv.org/abs/2307.05916))
 
