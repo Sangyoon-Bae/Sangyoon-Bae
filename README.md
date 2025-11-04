@@ -1,6 +1,6 @@
 # Hi, I'm Sangyoon 👋
 
-PhD Candidate @ Seoul National University | Neuro-AI & Foundation Models
+PhD Candidate @ Seoul National University | Neuro-AI & Knowledge-Guided Deep Learning & Foundation Models
 
 ## 🔬 Research Focus
 Developing **principle-driven AI systems** that bridge neuroscience and machine learning:
