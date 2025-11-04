@@ -23,7 +23,7 @@ Due to ongoing collaborations and publications, most of my research code is main
 ## 🌍 Research Experience
 - 🇨🇦 Visiting Researcher @ MILA (2024)
 - 🇺🇸 Visiting Researcher @ Brookhaven National Laboratory (BNL) (2023)
-- 🇰🇷 PhD @ Seoul National University (2021-Present)
+- 🇰🇷 Master & PhD @ Seoul National University (2021-Present)
 
 ## 💻 Tech Stack
 **Frameworks**: PyTorch • Hugging Face • DeepSpeed  
