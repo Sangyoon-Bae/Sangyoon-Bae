@@ -1,4 +1,4 @@
-# Hi, I'm Sangyoon 👋
+# Hi, I'm Sangyoon (Stella) 👋
 
 PhD Candidate @ Seoul National University | Neuro-AI & Biologically- and Physically- Grounded Representation Learning
 
