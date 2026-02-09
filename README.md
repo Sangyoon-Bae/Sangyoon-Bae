@@ -1,19 +1,19 @@
 # Hi, I'm Sangyoon 👋
 
-PhD Candidate @ Seoul National University | Neuro-AI & Knowledge-Guided Deep Learning & Foundation Models
+PhD Candidate @ Seoul National University | Neuro-AI & Biologically- and Physically- Grounded Representation Learning
 
 ## 🔬 Research Focus
-Developing **principle-driven AI systems** that bridge neuroscience and machine learning:
-- 🧠 Self-supervised learning from neural data
-- 🎯 Causal inference for brain connectivity  
+Developing **Biologically- and Physically- Grounded AI systems** that bridge neuroscience and machine learning:
+- 🧠 Self-supervised learning for neural data
+- 🎯 Causal inference for brain
 - 📊 Spatiotemporal modeling of brain dynamics
 - 🤖 Interpretable foundation models
 
 ## 📝 Selected Publications
-- **POYO-SSL**: Predictability-aware SSL for visual decoding ([paper](http://arxiv.org/abs/2510.18516))
-- **CausalMamba**: Scalable SSMs for neural causal inference ([paper](https://arxiv.org/abs/2510.17318))
-- **MBBN**: Frequency-specific attention for fMRI ([paper](https://arxiv.org/abs/2503.23394))
-- **Swift**: Swin 4D fMRI Transformer ([paper](https://arxiv.org/abs/2307.05916))
+- **POYO-SSL**: Predictability-aware SSL for visual decoding ([paper](http://arxiv.org/abs/2510.18516)) (ICLR 2026, sole first author)
+- **INCAMA**: Recovering Whole-Brain Causal Connectivity under Indirect Observation with Applications to Human EEG and fMRI ([paper]will be updated) (ICML 2026, sole first author, under review)
+- **MBBN**: Frequency-specific attention for fMRI ([paper](https://arxiv.org/abs/2503.23394)) (Communications Biology, sole first author, under review)
+- **Swift**: Swin 4D fMRI Transformer ([paper](https://arxiv.org/abs/2307.05916)) (NeurIPS 2023, co-author)
 
 ## 🔗 Research Code
 Due to ongoing collaborations and publications, most of my research code is maintained in lab repositories:
@@ -23,6 +23,7 @@ Due to ongoing collaborations and publications, most of my research code is main
 ## 🌍 Research Experience
 - 🇨🇦 Visiting Researcher @ MILA (2024)
 - 🇺🇸 Visiting Researcher @ Brookhaven National Laboratory (BNL) (2023)
+- 🇫🇷 Visting Researcher @ The Institut de Neurosciences des Systèmes (INS) (2022)
 - 🇰🇷 Master & PhD @ Seoul National University (2021-Present)
 
 ## 💻 Tech Stack
