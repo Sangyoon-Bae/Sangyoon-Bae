@@ -11,7 +11,7 @@ Developing **Biologically- and Physically- Grounded AI systems** that bridge neu
 
 ## 📝 Selected Publications
 - **POYO-CAP**: Cell-Pattern Aware Pretraining Method for Visual Decoding ([paper](http://arxiv.org/abs/2510.18516)) (ICLR 2026, sole first author)
-- **INCAMA**: Recovering Whole-Brain Causal Connectivity under Indirect Observation with Applications to Human EEG and fMRI ([paper]will be updated) (ICML 2026, sole first author, under review)
+- **INCAMA**: Recovering Whole-Brain Causal Connectivity under Indirect Observation with Applications to Human EEG and fMRI ([paper](https://arxiv.org/abs/2602.09034)) (sole first author, under review)
 - **MBBN**: Frequency-specific attention for fMRI ([paper](https://arxiv.org/abs/2503.23394)) (Communications Biology, sole first author, in press)
 - **Swift**: Swin 4D fMRI Transformer ([paper](https://arxiv.org/abs/2307.05916)) (NeurIPS 2023, co-author)
 
